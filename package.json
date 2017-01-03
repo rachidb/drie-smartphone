@@ -1,0 +1,29 @@
+{
+  "name": "DriveSmartphone",
+  "version": "1.0.0",
+  "description": "DriveSmartphone",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DjihadBengati/drivesmartphone.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Express",
+    "Angular"
+  ],
+  "author": "Djihad BENGATI & Rachid BARKOUKI",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "angular":          "1.5.8",
+    "angular-route":    "1.5.8",
+    "angular-mocks":    "1.5.8",
+    "jquery":           "2.2.0",
+    "nodemailer": "2.7.0"
+  }
+}
